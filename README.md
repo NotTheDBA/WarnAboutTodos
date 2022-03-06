@@ -1,3 +1,6 @@
+Forked from the source code for https://marketplace.visualstudio.com/items?itemName=MattLaceyLtd.WarnAboutTODOs to play around with customising and tweaking.
+
+
 # Warn About TODOs
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
